@@ -15,7 +15,7 @@
 
 ## What To Expect:
 
-![Budget-Tracker](./imgs/budget.jpg)
+![Budget-Tracker](./public/imgs/budget.jpg)
 
 ## Description
 
